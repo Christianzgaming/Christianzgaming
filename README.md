@@ -6,4 +6,5 @@
 ‎ 
 ‎ 
 Email:
+‎ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&color=F7C300&background=00A4FF00&repeat=false&width=435&lines=christianangelgeronimo%40gmail.com)](https://git.io/typing-svg)
