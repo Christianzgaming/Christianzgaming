@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=code+artist+%2C+devops;software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Christian%20Angel%20M.%20Geronimo)](https://git.io/typing-svg)
 
 Hi I'm  Christian Angel M. Geronimo
 
