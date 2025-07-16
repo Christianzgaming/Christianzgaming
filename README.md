@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lineslines=Hi%20I%27m%20Christian%20Angel%20M.%20Geronimo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=1000&lineslines=Hi%20I%27m%20Christian%20Angel%20M.%20Geronimo)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=1000&lines=I+am+a+first-year+college+student+at+Tarlac+State+University.;Currently+pursuing+a+degree+in+Information+Technology.;I+enjoy+coding+and+building+small+projects+in+my+free+time.;I+started+an+initiative+to+make+coding+fun+and+easy.)](https://git.io/typing-svg)
-
-
 
 Email:
 - christianangelgeronimo@gmail.com
