@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi%20I%27m%20Christian%20Angel%20M.%20Geronimo)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=2700&lines=I+am+a+first-year+college+student+at+Tarlac+State+University%2C+where+I+am+pursuing+an+IT+degree.+In+my+free+time%2C+I+derive+pleasure+from+developing+small+projects+and+writing+codes.+I+started+to+make+coding+fun+and+easy.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=1000&lines=I+am+a+first-year+college+student+at+Tarlac+State+University.;Currently+pursuing+a+degree+in+Information+Technology.;I+enjoy+coding+and+building+small+projects+in+my+free+time.;I+started+an+initiative+to+make+coding+fun+and+easy.)](https://git.io/typing-svg)
 
 
 
